@@ -1,0 +1,56 @@
+﻿--- VUI LÒNG NHẬP THÔNG TIN CẤU HÌNH ---
+Nhập email Facebook của bạn: 
+Nhập mật khẩu Facebook của bạn (sẽ không hiển thị khi gõ):
+Nhập link bài viết Facebook (có thể là link chia sẻ): 
+
+DevTools listening on ws://127.0.0.1:49577/devtools/browser/ae734e55-83ab-42d1-9ee7-0e1f87ff1ea1
+
+Đã khởi tạo trình duyệt Chrome.
+
+--- BẮT ĐẦU QUÁ TRÌNH ĐĂNG NHẬP ---
+Đã nhập email.
+Đã nhập mật khẩu.
+Đã nhấn nút đăng nhập.
+[11868:3828:0527/165248.379:ERROR:components\system_cpu\cpu_probe_win.cc:112] PdhAddEnglishCounter failed for '\Processor(_Total)% Processor Time': Error (0x3AFC) while retrieving error. (0xC0000BB8)
+[11868:9824:0527/165248.379:ERROR:components\system_cpu\cpu_probe_win.cc:112] PdhAddEnglishCounter failed for '\Processor(_Total)% Processor Time': Error (0x3AFC) while retrieving error. (0xC0000BB8)
+Created TensorFlow Lite XNNPACK delegate for CPU.
+Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+[11868:3828:0527/165254.840:ERROR:components\system_cpu\cpu_probe_win.cc:112] PdhAddEnglishCounter failed for '\Processor(_Total)% Processor Time': Error (0x3B01) while retrieving error. (0xC0000BB8)
+Đăng nhập thành công!
+
+--- BẮT ĐẦU XỬ LÝ LINK BÀI VIẾT VÀ COMMENT ---
+Đang xử lý URL đầu vào: https://www.facebook.com/share/p/19NUuoPaAK/
+Thử truy cập URL để lấy link cuối cùng: https://www.facebook.com/share/p/19NUuoPaAK/
+[11868:3828:0527/165309.840:ERROR:components\system_cpu\cpu_probe_win.cc:112] PdhAddEnglishCounter failed for '\Processor(_Total)% Processor Time': Error (0x3B01) while retrieving error. (0xC0000BB8)
+URL cuối cùng sau khi truy cập và chờ chuyển hướng: https://www.facebook.com/l.t.viet.695531/posts/pfbid031jHXrGVLwCn3moh7fSSsrTk22iunWnZPs47Mpm9ZvCBP1mbzf1FYGzEUDQW5dgdbl?rdid=DJJtnUvwgDe51OZt#
+URL đã được 'làm sạch' (nếu có thể): https://www.facebook.com/l.t.viet.695531/posts/pfbid031jHXrGVLwCn3moh7fSSsrTk22iunWnZPs47Mpm9ZvCBP1mbzf1FYGzEUDQW5dgdbl
+[11868:3828:0527/165324.840:ERROR:components\system_cpu\cpu_probe_win.cc:112] PdhAddEnglishCounter failed for '\Processor(_Total)% Processor Time': Error (0x3B01) while retrieving error. (0xC0000BB8)
+[11868:9824:0527/165339.840:ERROR:components\system_cpu\cpu_probe_win.cc:112] PdhAddEnglishCounter failed for '\Processor(_Total)% Processor Time': Error (0x3B01) while retrieving error. (0xC0000BB8)
+LỖI CHUNG NGOÀI DỰ KIẾN TRONG QUÁ TRÌNH XỬ LÝ BÀI VIẾT: Message:
+Stacktrace:
+GetHandleVerifier [0x00007FF7DA4FCF45+75717]
+GetHandleVerifier [0x00007FF7DA4FCFA0+75808]
+(No symbol) [0x00007FF7DA2C8F9A]
+(No symbol) [0x00007FF7DA31F4C6]
+(No symbol) [0x00007FF7DA31F77C]
+(No symbol) [0x00007FF7DA372577]
+(No symbol) [0x00007FF7DA3473BF]
+(No symbol) [0x00007FF7DA36F39C]
+(No symbol) [0x00007FF7DA347153]
+(No symbol) [0x00007FF7DA310421]
+(No symbol) [0x00007FF7DA3111B3]
+GetHandleVerifier [0x00007FF7DA7FD71D+3223453]
+GetHandleVerifier [0x00007FF7DA7F7CC2+3200322]
+GetHandleVerifier [0x00007FF7DA815AF3+3322739]
+GetHandleVerifier [0x00007FF7DA516A1A+180890]
+GetHandleVerifier [0x00007FF7DA51E11F+211359]
+GetHandleVerifier [0x00007FF7DA505294+109332]
+GetHandleVerifier [0x00007FF7DA505442+109762]
+GetHandleVerifier [0x00007FF7DA4EBA59+4825]
+BaseThreadInitThunk [0x00007FFCABB27AC4+20]
+RtlUserThreadStart [0x00007FFCAE64A351+33]
+
+--- KẾT THÚC SCRIPT ---
+Nhấn Enter để đóng trình duyệt...
+
+đây là thông báo
